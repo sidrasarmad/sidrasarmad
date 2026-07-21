@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- Freelancer -->
-  <a href="https://www.freelancer.com/u/YOUR_USERNAME">
+  <a href="https://www.freelancer.com/u/AccuBrudge">
     <img width="32px" alt="Freelancer" title="Freelancer" src="https://cdn.simpleicons.org/freelancer/29B2FE"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
