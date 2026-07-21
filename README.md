@@ -12,7 +12,7 @@
 <!-- Social & Freelance Icons Section -->
 <p align="center">
   <!-- Fiverr -->
-  <a href="https://www.fiverr.com/YOUR_USERNAME">
+  <a href="https://www.fiverr.com/sidramsarmad">
     <img width="32px" alt="Fiverr" title="Fiverr" src="https://cdn.simpleicons.org/fiverr/1DBF73"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
