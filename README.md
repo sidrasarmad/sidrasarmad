@@ -30,7 +30,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- PeoplePerHour -->
-  <a href="https://www.peopleperhour.com/freelancer/YOUR_USERNAME">
+  <a href="https://www.peopleperhour.com/freelancer/design/accubridge-ali-brand-identity-designer-wordpress-zxwxzymy">
     <img width="32px" alt="PeoplePerHour" title="PeoplePerHour" src="https://cdn.simpleicons.org/peopleperhour/EE7200"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
