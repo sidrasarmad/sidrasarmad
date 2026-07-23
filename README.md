@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="s Lawrence" /></a>
+  <a href="https://github.com/sidrasarmad">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Sidra%20Sarmad&font=Fira%20Code&center=true&width=440&height=50&color=f75c7e&vCenter=true&size=30" alt="Sidra Sarmad" />
+  </a>
 </p>
 
 <p align="center">
@@ -29,10 +30,15 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <!-- PeoplePerHour -->
-  <a href="https://www.peopleperhour.com/freelancer/design/accubridge-ali-brand-identity-designer-wordpress-zxwxzymy">
-    <img width="32px" alt="PeoplePerHour" title="PeoplePerHour" src="https://cdn.simpleicons.org/peopleperhour/EE7200"/>
-  </a>
+<!-- PeoplePerHour -->
+<a href="https://www.peopleperhour.com/freelancer/design/accubridge-ali-brand-identity-designer-wordpress-zxwxzymy" target="_blank">
+  <img
+    width="32"
+    alt="PeoplePerHour"
+    title="PeoplePerHour"
+    src="https://img.shields.io/badge/PeoplePerHour-EE7200?style=for-the-badge&logo=peopleperhour&logoColor=white"
+  />
+</a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <!-- Behance -->
